@@ -1,7 +1,7 @@
 # PostgreSQL Database Setup and Analysis
 
 
-![PostgreSQL DB Development and Analsysis](https://github.com/ejw-data/postgreSQL-setup/blob/master/config/images/QuickDBD-export.png?raw=true)
+![PostgreSQL DB Development and Analsysis](https://github.com/ejw-data/postgreSQL-setup/blob/master/DB_Setup/QuickDBD-export.png?raw=true)
 <br>
 
 ## Objective
